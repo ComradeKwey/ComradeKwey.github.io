@@ -1,0 +1,307 @@
+
+<!DOCTYPE html>
+<html lang="ru-ru" dir="ltr"
+	  class='com_content view-category layout-blog itemid-117 j39 mm-hover'>
+
+<head>
+	<base href="http://umsf-it.dp.ua/our-blog" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Новини</title>
+	<link href="/our-blog?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/our-blog?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/ja_space/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/t3-assets/css/css-0f718-19321.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/t3-assets/css/css-0fd7d-25271.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/t3-assets/css/css-e3e52-31206.css" rel="stylesheet" type="text/css" media="all" />
+	<script src="/t3-assets/js/js-6198c-31206.js" type="text/javascript"></script>
+	<script type="text/javascript">
+(function(d){
+					  var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+					  if (d.getElementById(id)) {return;}
+					  js = d.createElement('script'); js.id = id; js.async = true;
+					  js.src = 'http://umsf-it.dp.ua/plugins/content/powrshortcodes/powr_joomla.js';
+					  js.setAttribute('powr-token','7m4ZyCzluZ1558191801');
+					  js.setAttribute('external-type','joomla');
+					  ref.parentNode.insertBefore(js, ref);
+					}(document));jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+	
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+<style>
+	.ja-decor-1 path {
+		fill: url(#gradient-1);
+	}
+
+	.ja-decor-2 path {
+		fill: url(#gradient-2);
+	}
+
+	.ja-decor-3 path {
+		fill: url(#gradient-3);
+	}
+
+	.ja-decor-4 path {
+    fill: url(#gradient-4);
+  }
+
+  .ja-decor-5 path {
+		fill: url(#gradient-5);
+	}
+
+	.ja-decor-6 path {
+		fill: url(#gradient-6);
+	}
+</style>
+	
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+</head>
+
+<body>
+
+  <div class="t3-wrapper "> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
+
+    
+<header id="t3-header" class="t3-header">
+	<!-- LOGO -->
+	<div class="logo logo-image">
+		<a href="http://umsf-it.dp.ua/" title="УМСФ">
+							<img class="logo-img" src="/images/Logo200px.png" alt="УМСФ" />
+			
+						<span>УМСФ</span>
+		</a>
+		<small class="site-slogan"></small>
+	</div>
+	<!-- // LOGO -->
+
+	<!-- MAIN NAVIGATION -->
+	<nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav">
+							<div class="t3-navbar-collapse navbar-collapse collapse"></div>
+			
+			<div class="t3-navbar navbar-collapse collapse">
+				<div  class="t3-megamenu animate elastic"  data-duration="500" data-responsive="true">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
+<li itemprop='name'  data-id="101" data-level="1">
+<a itemprop='url' class=""  href="/"   data-target="#">Головна </a>
+
+</li>
+<li itemprop='name'  data-id="135" data-level="1">
+<a itemprop='url' class=""  href="/kolektiv-kafedri"   data-target="#">Колектив кафедри </a>
+
+</li>
+<li itemprop='name'  data-id="154" data-level="1">
+<a itemprop='url' class=""  href="/roboti-studentiv"   data-target="#">Роботи студентів </a>
+
+</li>
+<li itemprop='name'  data-id="136" data-level="1">
+<a itemprop='url' class=""  href="/rozklad"   data-target="#">Розклад занять </a>
+
+</li>
+<li itemprop='name' class="current active dropdown mega" data-id="117" data-level="1">
+<a itemprop='url' class=" dropdown-toggle"  href="/our-blog"   data-target="#" data-toggle="dropdown">Новини <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="149" data-level="2">
+<a itemprop='url' class=""  href="/our-blog/zustrichi-z-rabotodavtsyami"   data-target="#">Зустрічі з работодавцями </a>
+
+</li>
+<li itemprop='name'  data-id="150" data-level="2">
+<a itemprop='url' class=""  href="/our-blog/naukovi-zakhodi"   data-target="#">Наукові заходи </a>
+
+</li>
+<li itemprop='name'  data-id="152" data-level="2">
+<a itemprop='url' class=""  href="/our-blog/nashi-vipuskniki"   data-target="#">Наші випускники </a>
+
+</li>
+<li itemprop='name'  data-id="153" data-level="2">
+<a itemprop='url' class=""  href="/our-blog/studentske-zhittya"   data-target="#">Студентське життя </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="120" data-level="1">
+<a itemprop='url' class=""  href="/contact-us"   data-target="#">Контакти </a>
+
+</li>
+<li itemprop='name'  data-id="148" data-level="1">
+<a itemprop='url' class=""  href="/pitannya"   data-target="#">Питання </a>
+
+</li>
+</ul>
+</div>
+
+			</div>
+	</nav>
+	<!-- //MAIN NAVIGATION -->
+
+		<!-- HEADRIGHT -->
+	<div class="headright">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".t3-navbar-collapse">
+					<span class="fa fa-bars"></span>
+				</button>
+			
+		</div>
+
+		
+			</div>
+	<!-- // HEADRIGHT -->
+	</header>
+<!-- //HEADER -->
+
+
+
+    
+
+
+    
+	<!-- MASTHEAD -->
+	<div class="wrap t3-masthead ">
+		<div class="ja-masthead" >
+	    <div class="ja-masthead-detail">
+		<h3 class="ja-masthead-title">Блог</h3>
+        	</div>
+</div>	
+	</div>
+	<!-- //MASTHEAD -->
+
+
+    
+
+    
+
+<div id="t3-mainbody" class="container t3-mainbody">
+	<div class="row">
+
+		<!-- MAIN CONTENT -->
+		<div id="t3-content" class="t3-content col-xs-12">
+						
+<div class="blog" itemscope itemtype="https://schema.org/Blog">
+		
+		
+		
+	
+						<p>В данной категории нет материалов.</p>
+			
+		
+	
+		
+		
+		
+	</div>
+
+		</div>
+		<!-- //MAIN CONTENT -->
+
+	</div>
+</div> 
+
+
+    
+
+    
+
+
+    
+<!-- BACK TOP TOP BUTTON -->
+<div id="back-to-top" data-spy="affix" data-offset-top="200" class="back-to-top hidden-xs hidden-sm affix-top">
+  <button class="btn btn-primary" title="Back to Top"><span class="icon ion-ios-arrow-up"></span></button>
+</div>
+
+<script type="text/javascript">
+(function($) {
+  // Back to top
+  $('#back-to-top').on('click', function(){
+    $("html, body").animate({scrollTop: 0}, 500);
+    return false;
+  });
+})(jQuery);
+</script>
+<!-- BACK TO TOP BUTTON -->
+
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+	<div class="container">
+		<div class="t3-copyright">
+				<div class="row">
+					<div class="col-md-12 copyright ">
+						<div class="module">
+    © 2013-2021    <a target="_blank" rel="noopener noreferrer"  href="http://umsf.dp.ua/">Університет митної справи та фінансів</a>,
+    <a target="_blank" rel="noopener noreferrer"  href="https://jakkson.jimdo.com/">JakkSoft</a>
+    Всі права захищені
+</div>
+					</div>
+									</div>
+		</div>
+	</div>
+</footer>
+<!-- //FOOTER -->
+
+    
+
+
+  </div>
+
+  
+<script>
+
+var script = document.createElement('script');
+script.async = true;
+script.src="https://paldesk.io/api/widget-client?apiKey=cc81eed967bb64d6f19f6b5fd41a8e43";
+//alert( "paldeskConfig.apiKey =" +  paldeskConfig.apiKey)
+script.onload = function () {
+
+    
+
+    var instance = BeeBeeate.widget.new(beebeeate_config);
+}
+
+document.body.appendChild(script);
+
+</script>
+</body>
+
+</html>
